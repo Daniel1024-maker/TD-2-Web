@@ -5,7 +5,7 @@ function AppRoutes(){
         <BrowserRouter>
             <Routes>
                 <Route path="/home" element={<Home />}></Route>
-                <Route path=/TD-2-Web/" element={<Home />}></Route>
+                <Route path="/TD-2-Web/" element={<Home />}></Route>
             </Routes>
         </BrowserRouter>
     );
