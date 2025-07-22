@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TD-2-Web/static/css/main.91bee65c.css",
+    "main.js": "/TD-2-Web/static/js/main.8a9e60f3.js",
+    "index.html": "/TD-2-Web/index.html",
+    "main.91bee65c.css.map": "/TD-2-Web/static/css/main.91bee65c.css.map",
+    "main.8a9e60f3.js.map": "/TD-2-Web/static/js/main.8a9e60f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91bee65c.css",
+    "static/js/main.8a9e60f3.js"
+  ]
+}
