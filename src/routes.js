@@ -4,8 +4,8 @@ function AppRoutes(){
     return(
         <BrowserRouter>
             <Routes>
-                <Route path="/home" element={<Home />}></Route>
-                <Route path="/TD-2-Web/" element={<Home />}></Route>
+                <Route path="https://daniel1024-maker.github.io/TD-2-Web/home" element={<Home />}></Route>
+                <Route path="https://daniel1024-maker.github.io/TD-2-Web" element={<Home />}></Route>
             </Routes>
         </BrowserRouter>
     );
