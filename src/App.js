@@ -1,5 +1,5 @@
 import AppRoutes from "./routes";
-import Home form "./pages/Home";
+import Home from "./pages/Home";
 function App() {
   return (
     <>
